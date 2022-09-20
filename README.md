@@ -1,11 +1,13 @@
 # Battery Notification System
 
+<p>
 A small battery notification for Windows User(mainly) in python.
 
 Python libraries required:
 	1. notifypy
 	2. psutil
 	3. os
+</p>
 
 You guys are free to use it according to your convenience.
 
