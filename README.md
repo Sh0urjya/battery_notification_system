@@ -5,11 +5,11 @@ A small battery notification for Windows User(mainly) in python.
 
 Python libraries required:
 	<br>
-	1. notifypy
+	<t>1. notifypy
 	<br>
-	2. psutil
+	<t>2. psutil
 	<br>
-	3. os
+	<t>3. os
 </p>
 
 You guys are free to use it according to your convenience.
