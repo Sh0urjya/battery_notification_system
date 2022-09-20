@@ -1,4 +1,4 @@
-# Battery Notification Image
+# Battery Notification System
 
 A small battery notification for Windows User(mainly) in python.
 
